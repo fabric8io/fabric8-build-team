@@ -4,8 +4,8 @@ This is a meta repo for the build team to track documentations and issues.
 
 ## Team members
 
-@rupalibehera
-@chmouel
-@jaseemabid
-@sthaha
+* [@rupalibehera](https://github.com/rupalibehera)
+* [@chmouel](https://github.com/chmouel)
+* [@jaseemabid](https://github.com/jaseemabid)
+* [@sthaha](https://github.com/sthaha)
 
