@@ -9,4 +9,4 @@ This is a meta repo for the build team to track documentations and issues.
 * [@jaseemabid](https://github.com/jaseemabid)
 * [@sthaha](https://github.com/sthaha)
 
-NB: This is not affiliated in any way to the repository [fabric8-build](https://github.com/fabric8io/fabric8-build)
+**NB: This is not affiliated in any way to the [fabric8-build](https://github.com/fabric8io/fabric8-build) repository**
